@@ -15,7 +15,7 @@ let first start with a graphical diagram:
 
 ## how configure and connect to this service
 
-0- start with take a TOKEN ID from us for your business.
+0- start with take a TOKEN from us for your business.
 
 1- Consider an `userid` for your user because you should communicate with our server with userid of each of your users.
 
@@ -42,5 +42,8 @@ you can use this simple template code for your self:
 5- you can check the `status of your user` also the `amount of charge` with an **API** of our server.
 
 ```
-https://daryaftamn.shop/api.php?token=YOUR_API_KEY&request=YOUR_USERID
+https://daryaftamn.shop/api.php?token=YOUR_API_KEY&request=YOUR_USER_ID
 ```
+
+- some notes:
+- our server name is: `daryaftamn.shop`
