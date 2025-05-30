@@ -50,7 +50,7 @@ https://daryaftamn.shop/api.php?token=YOUR_API_KEY&request=YOUR_USER_ID
 {
   "status": "success",
   "message": "Request found",
-  "data": 1000
+  "data": YOUR_USER_AMOUNT
 }
 ```
 5.2- if the acknowledge of API was not successful this means that the payment does not occur and you received this message:
