@@ -10,4 +10,4 @@ you can see the updates and every new things on this readme page [PayPart Pages]
 
 start with a graphical diagram
 
-![paypart diagram](https://github.com/ataeiamirhosein/paypart/assets/images/paypart.jpg)
+![paypart diagram](https://github.com/ataeiamirhosein/paypart/blob/main/assets/images/Paypart.jpg)
