@@ -45,6 +45,23 @@ you can use this simple template code for your self:
 https://daryaftamn.shop/api.php?token=YOUR_API_KEY&request=YOUR_USER_ID
 ```
 
+5.1- if the acknowledge of API was successful this means that your user maid the payment and you received this message:
+```
+{
+  "status": "success",
+  "message": "Request found",
+  "data": 1000
+}
+```
+5.2- if the acknowledge of API was not successful this means that the payment does not occur and you received this message:
+```
+{
+  "status": "error",
+  "message": "Request not found in database",
+  "data": null
+}
+```
+
 --------------------------------------------------------------------
 
 - note:
