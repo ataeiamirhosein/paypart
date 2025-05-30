@@ -70,3 +70,16 @@ our server name is:
 ```
 daryaftamn.shop
 ```
+
+## ADMIN SIDE
+
+- you have also an ADMIN panel with your credentials for control your gateways (you can request more than one gateway according to your traffic) also the transaction of your users.
+
+- in your ADMIN panel you can turn on/off your gateway for risk management also.
+
+- note:
+the address of admin panel is:
+
+```
+https://daryaftamn.shop/management.php
+```
