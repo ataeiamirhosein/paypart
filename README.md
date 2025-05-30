@@ -9,10 +9,18 @@ you can see the updates and every new things on this readme page [PayPart Pages]
 
 --------------------------------------------------------------------
 
-let first start with a graphical diagram.
+let first start with a graphical diagram:
 
-![paypart diagram](https://github.com/ataeiamirhosein/paypart/blob/main/assets/images/Paypart.jpg).
+![paypart diagram](https://github.com/ataeiamirhosein/paypart/blob/main/assets/images/Paypart.jpg)
 
 ## how configure and connect to this service
 
 1- add two other payment method to your website as `C2C` and `Gateway` near your other methods like VISA/MASTER or AMEX.
+
+you can use this template code for your self:
+```HTML
+
+<a href="https://daryaftamn.shop/gate.php?id=<?php echo $userid; ?>"><button class="btn btn-primary mb-2 float-start">GateWay</button> </a>
+<a href="https://daryaftamn.shop/c2c.php?id=<?php echo $userid; ?>"><button class="btn btn-primary mb-2 float-end">C2C</button> </a>
+
+```
