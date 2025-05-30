@@ -20,7 +20,10 @@ let first start with a graphical diagram:
 you can use this template code for your self:
 ```HTML
 
-<a href="https://daryaftamn.shop/gate.php?id=<?php echo $userid; ?>"><button class="btn btn-primary mb-2 float-start">GateWay</button> </a>
-<a href="https://daryaftamn.shop/c2c.php?id=<?php echo $userid; ?>"><button class="btn btn-primary mb-2 float-end">C2C</button> </a>
+<a href="https://daryaftamn.shop/gate.php?id=<?php echo $userid; ?>">
+<button>GateWay</button></a>
+
+<a href="https://daryaftamn.shop/c2c.php?id=<?php echo $userid; ?>">
+<button>C2C</button></a>
 
 ```
