@@ -5,15 +5,23 @@ you have a business with a website that you need top up the deposit of your user
 you can easily connect your users to our server for the payment procedure and we acknowledge you that the payment
 was `successful or not` also the `amount of the payment` that your user made it.
 
+## Table of Contents
+- [Diagram](#diagram)
+- [Config](#how_configure_and_connect_to_this_service)
+- [API](#API)
+- [Admin](#ADMIN-SIDE)
+- [Notes](#notes)
+
 you can see the updates and every new things on this readme page [PayPart Pages](https://github.com/ataeiamirhosein/paypart).
 
 --------------------------------------------------------------------
 
+## diagram
 let first start with a graphical diagram:
 
 ![paypart diagram](https://github.com/ataeiamirhosein/paypart/blob/main/assets/images/Paypart.jpg)
 
-## how configure and connect to this service
+## how_configure_and_connect_to_this_service
 
 0- start with take a TOKEN from us for your business.
 
@@ -38,6 +46,10 @@ you can use this simple template code for your self:
 3- your user do the payment procedure.
 
 4- if the result of the payment of your user was succesful we log it in to our databse with your specific TOKEN that you take it before.
+
+--------------------------------------------------------------------
+
+## API
 
 5- you can check the `status of your user` also the `amount of charge` with an **API** of our server.
 
@@ -64,22 +76,22 @@ https://daryaftamn.shop/api.php?token=YOUR_API_KEY&request=YOUR_USER_ID
 
 --------------------------------------------------------------------
 
-- note:
-our server name is:
-
-```
-daryaftamn.shop
-```
-
-## ADMIN SIDE
+## ADMIN-SIDE
 
 - you have also an ADMIN panel with your credentials for control your gateways (you can request more than one gateway according to your traffic) also the transaction of your users.
 
 - in your ADMIN panel you can turn on/off your gateway for risk management also.
 
-- note:
-the address of admin panel is:
+## notes:
+
+- the address of admin panel is:
 
 ```
 https://daryaftamn.shop/management.php
+```
+
+- our server name is:
+
+```
+daryaftamn.shop
 ```
