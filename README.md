@@ -15,15 +15,18 @@ let first start with a graphical diagram:
 
 ## how configure and connect to this service
 
-1- add two other payment method to your website as `C2C` and `Gateway` near your other methods like VISA/MASTER or AMEX.
+1- Consider an `userid` for your user because you should communicate with our server with userid of each of your users.
+
+```PHP
+$userid = $conn->query($sql);
+```
+2- add two other payment method to your website as `C2C` and `Gateway` near your other methods like VISA/MASTER or AMEX.
 
 you can use this template code for your self:
 ```HTML
-
 <a href="https://daryaftamn.shop/gate.php?id=<?php echo $userid; ?>">
 <button>GateWay</button></a>
 
 <a href="https://daryaftamn.shop/c2c.php?id=<?php echo $userid; ?>">
 <button>C2C</button></a>
-
 ```
