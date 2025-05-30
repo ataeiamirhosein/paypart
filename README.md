@@ -15,6 +15,8 @@ let first start with a graphical diagram:
 
 ## how configure and connect to this service
 
+0- start with take a TOKEN ID from us for your business.
+
 1- Consider an `userid` for your user because you should communicate with our server with userid of each of your users.
 
 ```PHP
@@ -23,6 +25,7 @@ $userid = $conn->query($sql);
 2- add two other payment method to your website as `C2C` and `Gateway` near your other methods like VISA/MASTER or AMEX.
 
 you can use this simple template code for your self:
+
 ```HTML
 <a href="https://daryaftamn.shop/gate.php?id=<?php echo $userid; ?>">
 <button>GateWay</button></a>
@@ -32,4 +35,12 @@ you can use this simple template code for your self:
 ```
 - now you send your user to our server for the payment
 
-3- 
+3- your user do the payment procedure.
+
+4- if the result of the payment of your user was succesful we log it in to our databse with your specific TOKEN that you take it before.
+
+5- you can check the `status of your user` also the `amount of charge` with an **API** of our server.
+
+```
+https://daryaftamn.shop/api.php?token=YOUR_API_KEY&request=YOUR_USERID
+```
