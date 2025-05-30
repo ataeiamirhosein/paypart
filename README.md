@@ -45,6 +45,8 @@ you can use this simple template code for your self:
 https://daryaftamn.shop/api.php?token=YOUR_API_KEY&request=YOUR_USER_ID
 ```
 
+--------------------------------------------------------------------
+
 - note:
 our server name is:
 
