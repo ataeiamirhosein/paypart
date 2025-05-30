@@ -22,7 +22,7 @@ $userid = $conn->query($sql);
 ```
 2- add two other payment method to your website as `C2C` and `Gateway` near your other methods like VISA/MASTER or AMEX.
 
-you can use this template code for your self:
+you can use this simple template code for your self:
 ```HTML
 <a href="https://daryaftamn.shop/gate.php?id=<?php echo $userid; ?>">
 <button>GateWay</button></a>
@@ -30,3 +30,6 @@ you can use this template code for your self:
 <a href="https://daryaftamn.shop/c2c.php?id=<?php echo $userid; ?>">
 <button>C2C</button></a>
 ```
+- now you send your user to our server for the payment
+
+3- 
