@@ -71,7 +71,7 @@ request=YOUR_USER_ID
 ```
 
 5.1- if the acknowledge of API was successful this means that your user maid the payment and you received this message:
-```
+```JSON
 {
   "status": "success",
   "message": "Request found",
@@ -79,7 +79,7 @@ request=YOUR_USER_ID
 }
 ```
 5.2- if the acknowledge of API was not successful this means that the payment does not occur and you received this message:
-```
+```JSON
 {
   "status": "error",
   "message": "Request not found in database",
@@ -88,7 +88,7 @@ request=YOUR_USER_ID
 ```
 
 5.3- you can test simply with this file an API with post method or see the template code here:
-```
+```HTML
 <form action="https://daryaftamn.shop/api.php" method="POST">
 <input type="text" name="token" placeholder="API Token" required>
 <input type="text" name="request" placeholder="Request" required>
