@@ -17,7 +17,7 @@ was `successful or not` also the `amount of the payment` that your user made it.
 
 you can see the updates and every new things on this readme page [PayPart Pages](https://github.com/ataeiamirhosein/paypart).
 
-* for more information and any request you can communicate us trough this mail: info@daryaftamn.shop *
+(( for more information and any request you can communicate us trough this mail: info@daryaftamn.shop ))
 
 --------------------------------------------------------------------
 
