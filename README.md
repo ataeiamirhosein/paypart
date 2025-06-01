@@ -12,7 +12,8 @@ was `successful or not` also the `amount of the payment` that your user made it.
 - [Config](#how_configure_and_connect_to_this_service)
 - [API](#API)
 - [Admin](#ADMIN-SIDE)
-- [Notes](#notes)
+- [Notes](#notes:)
+- [our LOGO](#our_logo)
 
 you can see the updates and every new things on this readme page [PayPart Pages](https://github.com/ataeiamirhosein/paypart).
 
@@ -120,7 +121,7 @@ daryaftamn.shop
 
 --------------------------------------------------------------------
 
-## our logo
+## our_logo
 
 - you can add [Our LOGO](./assets/images/pp.png) into your website with this template code:
 
