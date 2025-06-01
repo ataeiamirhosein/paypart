@@ -12,7 +12,7 @@ was `successful or not` also the `amount of the payment` that your user made it.
 - [Config](#how_configure_and_connect_to_this_service)
 - [API](#API)
 - [Admin](#ADMIN-SIDE)
-- [Notes](#notes:)
+- [Notes](#notes)
 - [our LOGO](#our_logo)
 
 you can see the updates and every new things on this readme page [PayPart Pages](https://github.com/ataeiamirhosein/paypart).
@@ -105,7 +105,7 @@ request=YOUR_USER_ID
 
 - in your **Management Panel** you can turn on/off your gateway for risk management also.
 
-## notes:
+## notes
 
 - the address of admin panel is:
 
