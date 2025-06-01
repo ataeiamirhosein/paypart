@@ -56,7 +56,7 @@ you can use this simple template code for your self:
 
 ## API
 
-5- you can check the `status of your user` also the `amount of charge` with an **API** on our server.
+5- you can check the `status of your user` also the `amount of charge` with an **API** on our server trough `POST` method and secure with `https`.
 
 URL:
 ```
