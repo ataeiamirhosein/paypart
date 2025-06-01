@@ -87,6 +87,15 @@ request=YOUR_USER_ID
 }
 ```
 
+5.3- you can test simply with this file an API with post method or see the template code here:
+```
+<form action="https://daryaftamn.shop/api.php" method="POST">
+<input type="text" name="token" placeholder="API Token" required>
+<input type="text" name="request" placeholder="Request" required>
+<button type="submit">Submit</button>
+</form>
+```
+
 --------------------------------------------------------------------
 
 ## ADMIN-SIDE
