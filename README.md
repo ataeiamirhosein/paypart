@@ -117,3 +117,13 @@ https://daryaftamn.shop/management.php
 ```
 daryaftamn.shop
 ```
+
+--------------------------------------------------------------------
+
+## our logo
+
+- you can add [Our LOGO](./assets/images/pp.png) into your website with this template code:
+
+```HTML
+<a href="https://daryaftamn.shop"><img src="pp.png" width="75" height="55"></a>
+```
