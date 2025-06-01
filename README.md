@@ -1,6 +1,6 @@
 # PAYPART
 
-[an iranian payment method for your business]
+**[an iranian payment method for your business]**
 
 you have a business with a website that you need top up the deposit of your users on that with iranian bank accounts.
 
