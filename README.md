@@ -56,13 +56,19 @@ you can use this simple template code for your self:
 
 ## API
 
-5- you can check the `status of your user` also the `amount of charge` with an **API** of our server.
+5- you can check the `status of your user` also the `amount of charge` with an **API** on our server.
 
+URL:
 ```
 https://daryaftamn.shop/api.php
 ```
+Parameters:
+```
 token=YOUR_API_KEY
+```
+```
 request=YOUR_USER_ID
+```
 
 5.1- if the acknowledge of API was successful this means that your user maid the payment and you received this message:
 ```
