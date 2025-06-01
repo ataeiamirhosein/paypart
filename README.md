@@ -81,9 +81,9 @@ https://daryaftamn.shop/api.php?token=YOUR_API_KEY&request=YOUR_USER_ID
 
 ## ADMIN-SIDE
 
-- you have also an ADMIN panel with your credentials for control your gateways (you can request more than one gateway according to your traffic) also the transaction of your users.
+- you have also an **Management Panel** with your credentials for control your gateways (you can request more than one gateway according to your traffic) also the transaction of your users.
 
-- in your ADMIN panel you can turn on/off your gateway for risk management also.
+- in your **Management Panel** you can turn on/off your gateway for risk management also.
 
 ## notes:
 
