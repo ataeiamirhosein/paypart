@@ -48,7 +48,7 @@ you can use this simple template code for your self:
 3- your user do the payment procedure.
 
 **[ip checker]**
-- from the first june of 2025 our server able to check the ip of your user trough the payment process and if the ip of user do not for `Iran` we tell your user that pls turn on your VPN.
+- from the first june of 2025 our server able to check the ip of your user trough the payment process and if the ip of user do not for `Iran` we tell your user that please turn on your VPN.
 
 4- if the result of the payment of your user was succesful we log it in to our databse with your specific TOKEN that you take it before.
 
