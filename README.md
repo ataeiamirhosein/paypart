@@ -59,8 +59,10 @@ you can use this simple template code for your self:
 5- you can check the `status of your user` also the `amount of charge` with an **API** of our server.
 
 ```
-https://daryaftamn.shop/api.php?token=YOUR_API_KEY&request=YOUR_USER_ID
+https://daryaftamn.shop/api.php
 ```
+token=YOUR_API_KEY
+request=YOUR_USER_ID
 
 5.1- if the acknowledge of API was successful this means that your user maid the payment and you received this message:
 ```
